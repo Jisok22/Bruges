@@ -1,0 +1,2 @@
+# Bruges
+All things Bruges
